@@ -1,0 +1,5 @@
+toc:
+  - group: My Guides
+    items:
+      - page: Authorization
+        file: guide1.md
