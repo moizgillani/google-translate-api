@@ -14,6 +14,35 @@
       "AddRefSiblingDataInAllOfSchema": false,
       "EncodeUrlParamsInPostman": true
     },
+    "Authentication": {
+        "Type": "CustomHeader",
+        "AuthType": "CustomHeader",
+        "Parameters": [
+            {
+            "Name": "X-Rapidapi-Key",
+            "Description": "your api key",
+            "DefaultValue": "934533e5acmshf8fc49652f327f6p114b48jsn7b772d101303"
+            },
+            {
+            "Name": "X-RapidAPI-Host",
+            "Description": "api key host",
+            "DefaultValue": "google-translate1.p.rapidapi.com"
+            },
+            {
+            "Name": "Content-Type",
+            "Description": "content type",
+            "DefaultValue": "x-www-form-urlencoded"
+            }
+        ],
+        "AuthorizationUrl": "",
+        "AccessTokenUrl": "",
+        "OAuth2Server": "",
+        "OAuth2AuthorizationServer": "",
+        "AuthGrantTypes": [],
+        "AuthScopes": [],
+        "Scopes": [],
+        "ParamFormats": {}
+    },
     "TestGenSettings": {
       "Configuration": {
         "X-Rapidapi-Key": "934533e5acmshf8fc49652f327f6p114b48jsn7b772d101303",
