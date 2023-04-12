@@ -1069,9 +1069,9 @@
   },
   "security": [
     {
-      "Rapidapi-Key": [],
-      "RapidAPI-Host": [],
-      "Content-Type": []
+      "Rapidapi-Key": "934533e5acmshf8fc49652f327f6p114b48jsn7b772d101303",
+      "RapidAPI-Host": "google-translate1.p.rapidapi.com",
+      "Content-Type": "application/x-www-form-urlencoded"
     }
   ],
   "tags": []
