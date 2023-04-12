@@ -1,19 +1,4 @@
 {
-    "MergeConfiguration": {
-      "MergeApis": false
-    },
-    "ImportSettings": {
-      "PreferJsonSchemaNameOverTitle": true,
-      "AppendParentNameForClashes": false,
-      "AutoGenerateTestCases": true,
-      "PreferSwaggerOperationSummaryOverId": false
-    },
-    "ExportSettings": {
-      "ExportExtensions": false,
-      "UseDateTimeOnlyInRaml": false,
-      "AddRefSiblingDataInAllOfSchema": false,
-      "EncodeUrlParamsInPostman": true
-    },
     "Authentication": {
         "Type": "CustomHeader",
         "AuthType": "CustomHeader",
@@ -42,21 +27,6 @@
         "AuthScopes": [],
         "Scopes": [],
         "ParamFormats": {}
-    },
-    "TestGenSettings": {
-      "Configuration": {
-        "X-Rapidapi-Key": "934533e5acmshf8fc49652f327f6p114b48jsn7b772d101303",
-        "X-RapidAPI-Host": "google-translate1.p.rapidapi.com",
-        "Content-Type": "x-www-form-urlencoded"
-      },
-      "TestTimeout": 30,
-      "PrecisionDelta": 0.01
-    },
-    "CodeGenSettings": {
-      "SynchronyMode": "Asynchronous",
-      "ModelSerializationScheme": "Json",
-      "ArraySerialization": "Indexed",
-      "Nullify404": true
     }
   }
   
